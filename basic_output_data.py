@@ -34,3 +34,6 @@ deaths = sorted([(v,k) for k,v in deaths_number.items()],reverse=True)
 print("\nFatality count caused by landslide events: \n ")
 for line in deaths:
     print(line[1],line[0])
+
+print("run deaths_word_cloud.py to create a deaths count vizualization")
+print("run events_line_chart.py  to create an event count vizualization ")
