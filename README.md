@@ -1,6 +1,6 @@
 # Capstone: Retrieving, Processing, and Visualizing Data with Python
 
-## "America's Views on Gun Permits" project:
+## "Global Landslide Data" project:
 
 This project is the final assignment of Capstone: Retrieving, Processing, and Visualizing Data with Python which is the last course of 5 from the Python for Everybody Specialization offered by University of Michigan and taught by Dr. Charles Severance on Coursera.
 In this Capstone project you are required  to select, process, and visualize the data of your choice.
